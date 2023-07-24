@@ -19,3 +19,5 @@ En cuanto a la Gasolina, destaca que los transportes que predominantemente usan 
 Al analizar la proporción de transportes que usan Diesel, se destaca que en 2007, los oleoductos tenían la mayor proporción de uso de este combustible, sin embargo en 2015, los ferrocarriles superaron a loa antes mencionados, tendencia que ha continuado con el paso de los años.
 
 ![serc_die](https://github.com/fabianfuentes95/TEDB/assets/48730068/e8478198-fae8-48ac-ad13-490b8f5084de)
+
+Realicé el ejercico extra para estimar el consumo de combustible por estado, este lo realicé en el archivo excel llamado "Ejercicio_extra.xlsx", en el cual tomé la información del registro de veículos por estado, y el consumo de energía y tipo de transporte para poder tener un estimado de la porporción de consumo de combustible reportado en trillones BTU.
