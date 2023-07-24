@@ -7,6 +7,8 @@ library(pacman) ; p_load('tidyverse')
 # En caso de ser necesario debe cambiar el directorio donde se tenga el proyecto
 #setwd('C:/Users/fuent/OneDrive/TEC/TEDB')
 
+options(timeout = 500)
+
 # URL de cada PDF
 urls <- c('https://tedb.ornl.gov/wp-content/uploads/2022/03/TEDB_Ed_40.pdf',
           'https://info.ornl.gov/sites/publications/Files/Pub147659.pdf',
