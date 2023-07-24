@@ -58,5 +58,5 @@ long <- TEDB[, c('transp', 'yr',"serc_gas", 'serc_die', 'serc_lga', 'serc_jet', 
   melt( id.vars=c('transp', 'yr') ,measure.vars=c("serc_gas", 'serc_die', 'serc_lga', 'serc_jet', 'serc_res', 'serc_nga', 'serc_ele'),
         variable.name = "var")
 
-fwrite(wide, 'outdata/TEDB_long.csv')
+fwrite(long, 'outdata/TEDB_long.csv')
 
