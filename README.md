@@ -14,10 +14,10 @@ En las cuales podemos analizar la proporción de uso de combustible por tipo de 
 
 En cuanto a la Gasolina, destaca que los transportes que predominantemente usan gasolina son denominados “Light vehicles” que incluyen automóviles, camionetas ligeras y motocicletas. En el tiempo se denota un comportamiento relativamente estable de todos los tipos de transporte que usan gasolina.
 
-![serc_gas](https://github.com/fabianfuentes95/TEDB/assets/48730068/359e46f7-b8e2-4804-8e7d-4fa14960d7e6)
+![serc_gas](https://github.com/fabianfuentes95/TEDB/assets/48730068/df904c1a-218a-4720-98cc-c31814f4e864)
 
 Al analizar la proporción de transportes que usan Diesel, se destaca que en 2007, los oleoductos tenían la mayor proporción de uso de este combustible, sin embargo en 2015, los ferrocarriles superaron a loa antes mencionados, tendencia que ha continuado con el paso de los años.
 
-![serc_die](https://github.com/fabianfuentes95/TEDB/assets/48730068/e8478198-fae8-48ac-ad13-490b8f5084de)
+![serc_die](https://github.com/fabianfuentes95/TEDB/assets/48730068/5085a3b6-abed-4378-95a2-1a911f5ffd5e)
 
 Realicé el ejercico extra para estimar el consumo de combustible por estado, este lo realicé en el archivo excel llamado "Ejercicio_extra.xlsx", en el cual tomé la información del registro de veículos por estado, y el consumo de energía y tipo de transporte para poder tener un estimado de la porporción de consumo de combustible reportado en trillones BTU.
